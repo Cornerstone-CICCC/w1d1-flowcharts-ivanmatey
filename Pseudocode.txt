@@ -1,0 +1,12 @@
+Pseudocode Excercise 3
+ - Input a, b, c
+ - Compare a & b, if a is bigger, then compare a & c, if it's still a, Print a.
+ - If comparing a & b, b is bigger, then compare b & c, if b it's still bigger, Print b.
+ - Otherwise, Print c.
+
+ Pseudocode Excercise 4
+  - Input c1, c2, h.
+  - Add c1 & c2 together.
+  - Compare c1+c2>h
+  - If this is true, then a triangle it's possible.
+  - If this is false, a triangle it's not possible.
